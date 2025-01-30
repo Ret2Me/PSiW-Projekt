@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "orders.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "unistd.h": "c",
+        "msg.h": "c",
+        "errno.h": "c",
+        "structs.h": "c"
+    }
+}
